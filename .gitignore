@@ -1,0 +1,15 @@
+# 不进仓库的大件 / 无关内容
+01科技*
+FileForCanMV/
+legacy-教程/
+logs/
+_tmp_pip/
+userTemp_*/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+Thumbs.db
+desktop.ini
